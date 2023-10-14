@@ -1,4 +1,4 @@
-## Parking Spot Detection
+# Parking Spot Detection
 
 This project is a Python application that uses OpenCV to detect available parking spots in a video feed.
 Getting Started
